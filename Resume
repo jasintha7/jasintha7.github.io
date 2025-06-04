@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body>
+
+<h1><center>JASINTHA MALLIMPALLI</center></h1>
+<style>
+    table,th,td{
+        border:1px solid rgb(79, 31, 60);
+    }
+</style>
+<tr>
+    <h1 style="background-color:rgb(52, 118, 133);"><CENTER>CAREER OBJECTIVE</CENTER></h1>
+    
+</tr>
+<tr>
+    <td>
+        <center>
+            <pre>
+              "Seeking a challenging role in a dynamic organization that utilizes my technical skills and knowledge in the field 
+                of electrtonics which drive innovation and excellence, and provides opportunities for growth and professional development."
+             </pre>
+         </center>
+
+</td>
+</tr>
+<tr>
+    <h1 style="background-color:rgb(73, 213, 245);"><CENTER>EDUCATION</CENTER></h1>
+    
+</tr>
+<center>
+<table>
+    
+    <tr>
+        <th>Education</th>
+        <th>year of study</th>
+        <th>Institution name</th>
+    </tr>
+    <tr>
+        <td>BTECH</td>
+        <td>2022-2026</td>
+        <td>Prasad v potluri siddhartha institute of technology</td>
+    </tr>
+     <tr>
+        <td>INTERMEDIATE</td>
+        <td>2020-2022</td>
+        <td>Narayana</td>
+    </tr>
+    <tr>
+        <td>SSC</td>
+        <td>2020</td>
+        <td>APRS</td>
+    </tr>
+    
+</table>
+</center>
+<tr>
+    <h1 style="background-color:rgb(73, 245, 228);"><CENTER>CERTIFICATIONS</CENTER></h1>
+    <center>
+    <div>
+        Basics of SQL :Scaler
+        Internet of Things Foundations:Infosys SpringBoard
+        JavaFullStack:EduSkillsAcademy 
+        python3.8:IIT Mumbai
+     </div>
+    </center>
+</tr>
+
+</body>
+</html>
